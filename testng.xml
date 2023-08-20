@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+  <test name="ContactPageTest">
+	  <classes>
+           <class name="CaseStudy3_1.ContactpageTest"/>
+            <class name="CaseStudy3_2.FlipkartTest"/>
+        </classes>
+  </test> 
+</suite> 
